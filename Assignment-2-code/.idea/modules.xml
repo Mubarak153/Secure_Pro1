@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment-2-code.iml" filepath="$PROJECT_DIR$/.idea/Assignment-2-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeLoveTrump/src/WeLoveTrump.iml" filepath="$PROJECT_DIR$/WeLoveTrump/src/WeLoveTrump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeLoveTrump_1/src/WeLoveTrump_1.iml" filepath="$PROJECT_DIR$/WeLoveTrump_1/src/WeLoveTrump_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeLoveTrump/build/build.iml" filepath="$PROJECT_DIR$/WeLoveTrump/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeLoveTrump_1/build/build1.iml" filepath="$PROJECT_DIR$/WeLoveTrump_1/build/build1.iml" />
+    </modules>
+  </component>
+</project>
